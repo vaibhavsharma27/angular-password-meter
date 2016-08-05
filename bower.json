@@ -1,0 +1,23 @@
+{
+  "name": "angular-password-meter",
+  "authors": [
+    "vaibhav.nits@gmail.com"
+  ],
+  "description": "Shows visually the strength of the input passed",
+  "main": "angular_password_meter.js",
+  "keywords": [
+    "passwordmeter"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.4.0"
+	},
+  "ignore": [
+    "**/.idea",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
