@@ -4,7 +4,7 @@
     "vaibhav.nits@gmail.com"
   ],
   "description": "Shows visually the strength of the input passed",
-  "main": "angular_password_meter.js",
+  "main": ["angular_password_meter.js", "password_meter.css"],
   "keywords": [
     "passwordmeter"
   ],
